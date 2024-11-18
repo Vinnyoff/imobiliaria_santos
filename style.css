@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    font-family: Tahoma;
+
+}
+
+.secao {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0 auto;
+}
+
+p {
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.cabecario {
+    background-color: #afddfb;
+}
+
+.cabecario img {
+    width: 150px;
+    
+}
+
+.cabecario p {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.cabecario a {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.banner {
+    padding-top: 0;
+    margin-top: 50px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.sobre h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.sobre h3 {
+    color: #1c81c0;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+
+.sobre img {
+    width: 450px;
+}
+
+.texto-azul {
+    color: #1c81c0;
+}
+
+.servicos {
+    background-color: #1d80c1;
+
+}
+
+.servicos h3 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.servicos p {
+    width: 700px;
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+}
+
+.texto-amarelo {
+    color: #fff81b;
+}
+
+.servicos ul {
+    width: 135px;
+    margin: 40px auto;
+}
+
+.servicos li {
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.corretores h3 {
+        color: #1c81c0;
+        font-size: 28px;
+        line-height: 42px;
+}
+
+.corretores img {
+    width: 450px;
+}
+
+.contatos {
+    background-color: #1d80c1;
+}
+
+.contatos h3 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+    margin-bottom: 25px;
+}
+
+.contatos p {
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin: 30px auto;
+}
+
+.contatos ul {
+    margin: 40px auto;
+    width: 210px;
+    list-style-type: none;
+}
+
+.contatos li {
+    margin-top: 15px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.contatos a {
+    color: #1d80c1;
+    background-color: #ffffff;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
